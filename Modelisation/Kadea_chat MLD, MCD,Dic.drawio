@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <mxfile host="app.diagrams.net" pages="3">
   <diagram id="OlKZkAznFt3fI275Szhk" name="Dictionnaire de données">
     <mxGraphModel dx="3402" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -15,17 +16,17 @@
             <mxRectangle height="56" width="148" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-41" parent="4T-Lfcza91imxFHU7UrC-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Type de donnees" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-41" parent="4T-Lfcza91imxFHU7UrC-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Type PostgreSQL" vertex="1">
           <mxGeometry height="56" width="145" x="148" as="geometry">
             <mxRectangle height="56" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-42" parent="4T-Lfcza91imxFHU7UrC-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Taille/format" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-42" parent="4T-Lfcza91imxFHU7UrC-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Taille / format" vertex="1">
           <mxGeometry height="56" width="148" x="293" as="geometry">
             <mxRectangle height="56" width="148" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-43" parent="4T-Lfcza91imxFHU7UrC-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="cle" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-43" parent="4T-Lfcza91imxFHU7UrC-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Clé" vertex="1">
           <mxGeometry height="56" width="147" x="441" as="geometry">
             <mxRectangle height="56" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -48,7 +49,7 @@
             <mxRectangle height="55" width="148" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-46" parent="4T-Lfcza91imxFHU7UrC-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INT" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-46" parent="4T-Lfcza91imxFHU7UrC-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="BIGINT" vertex="1">
           <mxGeometry height="55" width="145" x="148" as="geometry">
             <mxRectangle height="55" width="145" as="alternateBounds" />
           </mxGeometry>
@@ -68,7 +69,7 @@
             <mxRectangle height="55" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-75" parent="4T-Lfcza91imxFHU7UrC-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Identifiant unique de l&#39;utilisateur&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-75" parent="4T-Lfcza91imxFHU7UrC-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Identifiant unique de l’utilisateur." vertex="1">
           <mxGeometry height="55" width="147" x="733" as="geometry">
             <mxRectangle height="55" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -101,7 +102,7 @@
             <mxRectangle height="56" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-76" parent="4T-Lfcza91imxFHU7UrC-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;/span&gt;&lt;p id=&quot;p-rc_7d27b32e12f599a0-337&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Nom complet de l&#39;utilisateur&lt;/span&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-76" parent="4T-Lfcza91imxFHU7UrC-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Nom complet de l’utilisateur." vertex="1">
           <mxGeometry height="56" width="147" x="733" as="geometry">
             <mxRectangle height="56" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -119,7 +120,7 @@
             <mxRectangle height="56" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-57" parent="4T-Lfcza91imxFHU7UrC-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="150" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-57" parent="4T-Lfcza91imxFHU7UrC-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="255" vertex="1">
           <mxGeometry height="56" width="148" x="293" as="geometry">
             <mxRectangle height="56" width="148" as="alternateBounds" />
           </mxGeometry>
@@ -134,7 +135,7 @@
             <mxRectangle height="56" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-77" parent="4T-Lfcza91imxFHU7UrC-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Adresse email (utilisée pour l&#39;authentification)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-77" parent="4T-Lfcza91imxFHU7UrC-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Adresse email unique utilisée pour identifier le compte." vertex="1">
           <mxGeometry height="56" width="147" x="733" as="geometry">
             <mxRectangle height="56" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -167,7 +168,7 @@
             <mxRectangle height="56" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-78" parent="4T-Lfcza91imxFHU7UrC-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;/span&gt;&lt;p id=&quot;p-rc_7d27b32e12f599a0-339&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Mot de passe hashé de l&#39;utilisateur&lt;/span&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-78" parent="4T-Lfcza91imxFHU7UrC-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Mot de passe stocké sous forme de hachage, jamais en clair." vertex="1">
           <mxGeometry height="56" width="147" x="733" as="geometry">
             <mxRectangle height="56" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -200,7 +201,7 @@
             <mxRectangle height="55" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-79" parent="4T-Lfcza91imxFHU7UrC-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Chemin ou URL de la photo de profil&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-79" parent="4T-Lfcza91imxFHU7UrC-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Chemin ou URL de l’avatar ; facultatif." vertex="1">
           <mxGeometry height="55" width="147" x="733" as="geometry">
             <mxRectangle height="55" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -208,17 +209,17 @@
         <mxCell id="4T-Lfcza91imxFHU7UrC-69" parent="4T-Lfcza91imxFHU7UrC-38" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="56" width="880" y="364" as="geometry" />
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-70" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="date_creation" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-70" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="created_at" vertex="1">
           <mxGeometry height="56" width="148" as="geometry">
             <mxRectangle height="56" width="148" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-71" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DATETIME" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-71" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="TIMESTAMPTZ" vertex="1">
           <mxGeometry height="56" width="145" x="148" as="geometry">
             <mxRectangle height="56" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-72" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="YYYY-MM-DD&lt;div&gt;HH:MM:SS&lt;/div&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-72" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Date et heure" vertex="1">
           <mxGeometry height="56" width="148" x="293" as="geometry">
             <mxRectangle height="56" width="148" as="alternateBounds" />
           </mxGeometry>
@@ -228,17 +229,17 @@
             <mxRectangle height="56" width="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-87" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DEFAUT CURRENT_TIMESTAMP" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-87" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DEFAULT CURRENT_TIMESTAMP" vertex="1">
           <mxGeometry height="56" width="145" x="588" as="geometry">
             <mxRectangle height="56" width="145" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-80" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Date et heure de création du compte&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-80" parent="4T-Lfcza91imxFHU7UrC-69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Date et heure de création du compte." vertex="1">
           <mxGeometry height="56" width="147" x="733" as="geometry">
             <mxRectangle height="56" width="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-89" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="CONVERSATION" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-89" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="CONVERSATIONS" vertex="1">
           <mxGeometry height="390" width="880" x="30" y="550" as="geometry" />
         </mxCell>
         <mxCell id="4T-Lfcza91imxFHU7UrC-90" parent="4T-Lfcza91imxFHU7UrC-89" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
@@ -282,7 +283,7 @@
             <mxRectangle height="72" width="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-99" parent="4T-Lfcza91imxFHU7UrC-97" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INT" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-99" parent="4T-Lfcza91imxFHU7UrC-97" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="BIGINT" vertex="1">
           <mxGeometry height="72" width="146" x="147" as="geometry">
             <mxRectangle height="72" width="146" as="alternateBounds" />
           </mxGeometry>
@@ -302,7 +303,7 @@
             <mxRectangle height="72" width="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-103" parent="4T-Lfcza91imxFHU7UrC-97" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Identifiant unique de la conversation&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-103" parent="4T-Lfcza91imxFHU7UrC-97" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Identifiant unique de la conversation." vertex="1">
           <mxGeometry height="72" width="147" x="733" as="geometry">
             <mxRectangle height="72" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -335,7 +336,7 @@
             <mxRectangle height="72" width="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-110" parent="4T-Lfcza91imxFHU7UrC-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;/span&gt;&lt;p id=&quot;p-rc_7d27b32e12f599a0-343&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Titre de la conversation (pour les groupes)&lt;/span&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-110" parent="4T-Lfcza91imxFHU7UrC-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Titre facultatif, notamment pour une conversation de groupe." vertex="1">
           <mxGeometry height="72" width="147" x="733" as="geometry">
             <mxRectangle height="72" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -368,7 +369,7 @@
             <mxRectangle height="72" width="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-117" parent="4T-Lfcza91imxFHU7UrC-111" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Type de conversation (ex: &#39;direct&#39;, &#39;group&#39;)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-117" parent="4T-Lfcza91imxFHU7UrC-111" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Type de conversation, par exemple privée ou groupe." vertex="1">
           <mxGeometry height="72" width="147" x="733" as="geometry">
             <mxRectangle height="72" width="147" as="alternateBounds" />
           </mxGeometry>
@@ -376,12 +377,12 @@
         <mxCell id="4T-Lfcza91imxFHU7UrC-118" parent="4T-Lfcza91imxFHU7UrC-89" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="72" width="880" y="318" as="geometry" />
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-119" parent="4T-Lfcza91imxFHU7UrC-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="date_creation" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-119" parent="4T-Lfcza91imxFHU7UrC-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="date_of_creation" vertex="1">
           <mxGeometry height="72" width="147" as="geometry">
             <mxRectangle height="72" width="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-120" parent="4T-Lfcza91imxFHU7UrC-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DATETIME" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-120" parent="4T-Lfcza91imxFHU7UrC-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="TIMESTAMPTZ" vertex="1">
           <mxGeometry height="72" width="146" x="147" as="geometry">
             <mxRectangle height="72" width="146" as="alternateBounds" />
           </mxGeometry>
@@ -401,12 +402,12 @@
             <mxRectangle height="72" width="146" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-124" parent="4T-Lfcza91imxFHU7UrC-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;table style=&quot;margin-bottom: 32px; font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;tbody style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;tr style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(196, 199, 197); padding: 8px 12px; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p id=&quot;p-rc_7d27b32e12f599a0-345&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Date de création de la conversation&lt;/span&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-124" parent="4T-Lfcza91imxFHU7UrC-118" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Date et heure de création de la conversation." vertex="1">
           <mxGeometry height="72" width="147" x="733" as="geometry">
             <mxRectangle height="72" width="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-125" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="PARTICIPANTS" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-125" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="CONVERSATION_USERS" vertex="1">
           <mxGeometry height="430" width="852" x="993" y="40" as="geometry" />
         </mxCell>
         <mxCell id="4T-Lfcza91imxFHU7UrC-126" parent="4T-Lfcza91imxFHU7UrC-125" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
@@ -445,12 +446,12 @@
         <mxCell id="4T-Lfcza91imxFHU7UrC-132" parent="4T-Lfcza91imxFHU7UrC-125" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="80" width="852" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-133" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="id_user" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-133" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="id_conversation" vertex="1">
           <mxGeometry height="80" width="142" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-134" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INT" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-134" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="BIGINT" vertex="1">
           <mxGeometry height="80" width="142" x="142" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
@@ -460,17 +461,17 @@
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-136" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PK,FK" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-136" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PK composée, FK" vertex="1">
           <mxGeometry height="80" width="142" x="426" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-137" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="NOT NULL, Ref: &lt;code&gt;USERS(id_user)&lt;/code&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-137" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="NOT NULL, FK vers CONVERSATIONS(id_conversation)" vertex="1">
           <mxGeometry height="80" width="142" x="568" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-157" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Clé étrangère vers l&#39;utilisateur participant&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-157" parent="4T-Lfcza91imxFHU7UrC-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Clé étrangère vers l’utilisateur participant." vertex="1">
           <mxGeometry height="80" width="142" x="710" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
@@ -478,12 +479,12 @@
         <mxCell id="4T-Lfcza91imxFHU7UrC-138" parent="4T-Lfcza91imxFHU7UrC-125" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="80" width="852" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-139" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="id_conversation" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-139" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="id_user" vertex="1">
           <mxGeometry height="80" width="142" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-140" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INT" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-140" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="BIGINT" vertex="1">
           <mxGeometry height="80" width="142" x="142" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
@@ -493,17 +494,17 @@
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-142" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PK,FK" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-142" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PK composée, FK" vertex="1">
           <mxGeometry height="80" width="142" x="426" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-143" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="NOT NULL, Ref: &lt;code&gt;USERS(id_user)&lt;/code&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-143" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="NOT NULL, FK vers USERS(id_user)" vertex="1">
           <mxGeometry height="80" width="142" x="568" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-158" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Clé étrangère vers la conversation&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-158" parent="4T-Lfcza91imxFHU7UrC-138" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Clé étrangère vers la conversation associée." vertex="1">
           <mxGeometry height="80" width="142" x="710" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
@@ -531,12 +532,12 @@
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-149" parent="4T-Lfcza91imxFHU7UrC-144" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DEFAULT &#39;member&#39;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-149" parent="4T-Lfcza91imxFHU7UrC-144" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DEFAULT 'member'" vertex="1">
           <mxGeometry height="80" width="142" x="568" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-159" parent="4T-Lfcza91imxFHU7UrC-144" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;Rôle du participant dans la conversation (ex: &#39;admin&#39;, &#39;member&#39;)&lt;/span&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-159" parent="4T-Lfcza91imxFHU7UrC-144" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;Rôle du participant dans la conversation (ex: 'admin', 'member')&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="142" x="710" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
@@ -549,7 +550,7 @@
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-152" parent="4T-Lfcza91imxFHU7UrC-150" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DATETIME" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-152" parent="4T-Lfcza91imxFHU7UrC-150" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="TIMESTAMPTZ" vertex="1">
           <mxGeometry height="80" width="142" x="142" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
@@ -569,7 +570,7 @@
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-160" parent="4T-Lfcza91imxFHU7UrC-150" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;Date à laquelle l&#39;utilisateur a rejoint la conversation&lt;/span&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-160" parent="4T-Lfcza91imxFHU7UrC-150" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;Date à laquelle l'utilisateur a rejoint la conversation&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="142" x="710" as="geometry">
             <mxRectangle height="80" width="142" as="alternateBounds" />
           </mxGeometry>
@@ -618,7 +619,7 @@
             <mxRectangle height="86" width="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-170" parent="4T-Lfcza91imxFHU7UrC-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;code&gt;&lt;/code&gt;&lt;/span&gt;&lt;span&gt;INT&lt;/span&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-170" parent="4T-Lfcza91imxFHU7UrC-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="SMALLINT" vertex="1">
           <mxGeometry height="86" width="141" x="140" as="geometry">
             <mxRectangle height="86" width="141" as="alternateBounds" />
           </mxGeometry>
@@ -638,7 +639,7 @@
             <mxRectangle height="86" width="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-181" parent="4T-Lfcza91imxFHU7UrC-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Identifiant unique du statut&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-181" parent="4T-Lfcza91imxFHU7UrC-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Identifiant unique de l’état du message." vertex="1">
           <mxGeometry height="86" width="140" x="702" as="geometry">
             <mxRectangle height="86" width="140" as="alternateBounds" />
           </mxGeometry>
@@ -671,7 +672,7 @@
             <mxRectangle height="87" width="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-182" parent="4T-Lfcza91imxFHU7UrC-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Libellé de l&#39;état (ex: &#39;Envoyé&#39;, &#39;Distribué&#39;, &#39;Lu&#39;)&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-182" parent="4T-Lfcza91imxFHU7UrC-174" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Libellé de l’état : envoyé, délivré ou lu." vertex="1">
           <mxGeometry height="87" width="140" x="702" as="geometry">
             <mxRectangle height="87" width="140" as="alternateBounds" />
           </mxGeometry>
@@ -720,7 +721,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-193" parent="4T-Lfcza91imxFHU7UrC-191" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;code&gt;&lt;/code&gt;&lt;/span&gt;&lt;span&gt;INT&lt;/span&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-193" parent="4T-Lfcza91imxFHU7UrC-191" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="BIGINT" vertex="1">
           <mxGeometry height="59" width="160" x="160" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -740,7 +741,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-197" parent="4T-Lfcza91imxFHU7UrC-191" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Identifiant unique du message&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-197" parent="4T-Lfcza91imxFHU7UrC-191" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Identifiant unique du message." vertex="1">
           <mxGeometry height="59" width="160" x="800" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -773,7 +774,7 @@
             <mxRectangle height="58" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-204" parent="4T-Lfcza91imxFHU7UrC-198" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Contenu du message&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-204" parent="4T-Lfcza91imxFHU7UrC-198" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Contenu textuel du message." vertex="1">
           <mxGeometry height="58" width="160" x="800" as="geometry">
             <mxRectangle height="58" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -786,7 +787,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-207" parent="4T-Lfcza91imxFHU7UrC-205" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;code&gt;&lt;/code&gt;&lt;/span&gt;&lt;span&gt;DATETIME&lt;/span&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-207" parent="4T-Lfcza91imxFHU7UrC-205" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="TIMESTAMPTZ" vertex="1">
           <mxGeometry height="59" width="160" x="160" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -806,7 +807,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-211" parent="4T-Lfcza91imxFHU7UrC-205" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Date et heure d&#39;envoi du message&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-211" parent="4T-Lfcza91imxFHU7UrC-205" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Date et heure d’envoi du message." vertex="1">
           <mxGeometry height="59" width="160" x="800" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -819,7 +820,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-214" parent="4T-Lfcza91imxFHU7UrC-212" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span&gt;&lt;code&gt;&lt;/code&gt;&lt;/span&gt;&lt;span&gt;DATETIME&lt;/span&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-214" parent="4T-Lfcza91imxFHU7UrC-212" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="TIMESTAMPTZ" vertex="1">
           <mxGeometry height="59" width="160" x="160" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -839,7 +840,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-218" parent="4T-Lfcza91imxFHU7UrC-212" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Date de dernière modification du contenu&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-218" parent="4T-Lfcza91imxFHU7UrC-212" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Date de dernière modification, facultative." vertex="1">
           <mxGeometry height="59" width="160" x="800" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -852,7 +853,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-221" parent="4T-Lfcza91imxFHU7UrC-219" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INT" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-221" parent="4T-Lfcza91imxFHU7UrC-219" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="BIGINT" vertex="1">
           <mxGeometry height="59" width="160" x="160" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -872,7 +873,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-225" parent="4T-Lfcza91imxFHU7UrC-219" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;/code&gt;&lt;/span&gt;&lt;p id=&quot;p-rc_7d27b32e12f599a0-354&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Identifiant de l&#39;expéditeur du message&lt;/span&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-225" parent="4T-Lfcza91imxFHU7UrC-219" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Utilisateur qui a envoyé le message." vertex="1">
           <mxGeometry height="59" width="160" x="800" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -885,7 +886,7 @@
             <mxRectangle height="58" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-228" parent="4T-Lfcza91imxFHU7UrC-226" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INT" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-228" parent="4T-Lfcza91imxFHU7UrC-226" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="BIGINT" vertex="1">
           <mxGeometry height="58" width="160" x="160" as="geometry">
             <mxRectangle height="58" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -905,7 +906,7 @@
             <mxRectangle height="58" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-232" parent="4T-Lfcza91imxFHU7UrC-226" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Identifiant de la conversation associée&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-232" parent="4T-Lfcza91imxFHU7UrC-226" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Conversation à laquelle appartient le message." vertex="1">
           <mxGeometry height="58" width="160" x="800" as="geometry">
             <mxRectangle height="58" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -918,7 +919,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-235" parent="4T-Lfcza91imxFHU7UrC-233" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="INT" vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-235" parent="4T-Lfcza91imxFHU7UrC-233" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="SMALLINT" vertex="1">
           <mxGeometry height="59" width="160" x="160" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -938,7 +939,7 @@
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4T-Lfcza91imxFHU7UrC-239" parent="4T-Lfcza91imxFHU7UrC-233" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Identifiant du statut actuel du message&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  " vertex="1">
+        <mxCell id="4T-Lfcza91imxFHU7UrC-239" parent="4T-Lfcza91imxFHU7UrC-233" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="État actuel du message." vertex="1">
           <mxGeometry height="59" width="160" x="800" as="geometry">
             <mxRectangle height="59" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -969,25 +970,25 @@
         <mxCell id="CAm5NBXcxvukqYXS2h3U-82" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="USERS" vertex="1">
           <mxGeometry height="170" width="160" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="CAm5NBXcxvukqYXS2h3U-83" parent="CAm5NBXcxvukqYXS2h3U-82" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Id_user (PK)&lt;br&gt;Full_nam&lt;br&gt;email&lt;br&gt;password&lt;br&gt;avatar&lt;br&gt;Date_ot_creation" vertex="1">
+        <mxCell id="CAm5NBXcxvukqYXS2h3U-83" parent="CAm5NBXcxvukqYXS2h3U-82" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="id_user BIGINT (PK)&lt;br&gt;full_name VARCHAR(100) NOT NULL&lt;br&gt;email VARCHAR(255) UNIQUE NOT NULL&lt;br&gt;password VARCHAR(255) NOT NULL (haché)&lt;br&gt;avatar VARCHAR(255) NULL&lt;br&gt;created_at TIMESTAMPTZ NOT NULL" vertex="1">
           <mxGeometry height="120" width="160" y="50" as="geometry" />
         </mxCell>
         <mxCell id="CAm5NBXcxvukqYXS2h3U-84" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="CONVERSATIONS" vertex="1">
           <mxGeometry height="170" width="160" x="530" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="CAm5NBXcxvukqYXS2h3U-85" parent="CAm5NBXcxvukqYXS2h3U-84" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Id_conersation (PK)&lt;div&gt;Title&lt;/div&gt;&lt;div&gt;type_conversation&lt;br&gt;Date_of_Creation&lt;/div&gt;" vertex="1">
+        <mxCell id="CAm5NBXcxvukqYXS2h3U-85" parent="CAm5NBXcxvukqYXS2h3U-84" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="id_conversation BIGINT (PK)&lt;br&gt;title VARCHAR(100) NULL&lt;br&gt;type_conversation VARCHAR(100) NOT NULL&lt;br&gt;date_of_creation TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP" vertex="1">
           <mxGeometry height="120" width="160" y="50" as="geometry" />
         </mxCell>
         <mxCell id="CAm5NBXcxvukqYXS2h3U-86" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="MESSAGES" vertex="1">
           <mxGeometry height="150" width="160" x="254" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="CAm5NBXcxvukqYXS2h3U-87" parent="CAm5NBXcxvukqYXS2h3U-86" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Id_message (PK)&lt;div&gt;Contente&lt;/div&gt;&lt;div&gt;Date_sent&lt;/div&gt;&lt;div&gt;Date_modification&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CAm5NBXcxvukqYXS2h3U-87" parent="CAm5NBXcxvukqYXS2h3U-86" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="id_message BIGINT (PK)&lt;br&gt;content TEXT NOT NULL&lt;br&gt;date_sent TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP&lt;br&gt;date_modification TIMESTAMPTZ NULL&lt;br&gt;id_user BIGINT (FK) NOT NULL&lt;br&gt;id_conversation BIGINT (FK) NOT NULL&lt;br&gt;id_status SMALLINT (FK) NOT NULL" vertex="1">
           <mxGeometry height="100" width="160" y="50" as="geometry" />
         </mxCell>
         <mxCell id="CAm5NBXcxvukqYXS2h3U-88" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="STATUS" vertex="1">
           <mxGeometry height="120" width="160" x="250" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="CAm5NBXcxvukqYXS2h3U-89" parent="CAm5NBXcxvukqYXS2h3U-88" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Id_Status (PK)&lt;div&gt;Status_Description&lt;/div&gt;" vertex="1">
+        <mxCell id="CAm5NBXcxvukqYXS2h3U-89" parent="CAm5NBXcxvukqYXS2h3U-88" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="id_status SMALLINT (PK)&lt;br&gt;status_description VARCHAR(50) UNIQUE NOT NULL" vertex="1">
           <mxGeometry height="70" width="160" y="50" as="geometry" />
         </mxCell>
         <mxCell id="CAm5NBXcxvukqYXS2h3U-91" edge="1" parent="1" source="CAm5NBXcxvukqYXS2h3U-74" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="CAm5NBXcxvukqYXS2h3U-82" value="">
@@ -1089,6 +1090,21 @@
         <mxCell id="MjKyludVfl0C7irCoX3k-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(0,1)" vertex="1">
           <mxGeometry height="30" width="60" x="540" y="360" as="geometry" />
         </mxCell>
+        <mxCell id="association_conversation_users" value="CONVERSATION_USERS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=center;verticalAlign=top;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="association_conversation_users_fields" value="id_conversation BIGINT (PK, FK)&lt;br&gt;id_user BIGINT (PK, FK)&lt;br&gt;role_user VARCHAR(50)&lt;br&gt;date_joined TIMESTAMPTZ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="640" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="association_conversation_users_note" value="PK composée : (id_conversation, id_user)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="760" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cu_users" value="FK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;" edge="1" parent="1" source="association_conversation_users" target="CAm5NBXcxvukqYXS2h3U-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cu_conversations" value="FK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;" edge="1" parent="1" source="association_conversation_users" target="CAm5NBXcxvukqYXS2h3U-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1103,34 +1119,34 @@
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-4" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Id_user (PK)" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-5" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Full_name" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-5" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="full_name" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="60" as="geometry" />
         </mxCell>
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-6" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="email" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="96" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-7" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Password" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-7" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="password (haché)" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="132" as="geometry" />
         </mxCell>
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-8" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Avatar" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-9" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Date_of_creation" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-9" parent="beGQW_I2tZ_rfWtEJjbH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="created_at" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="210" as="geometry" />
         </mxCell>
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="CONVERSATIONS" vertex="1">
           <mxGeometry height="200" width="200" x="460" y="-730" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-10" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Id_conversation(PK)" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-10" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="id_conversation (PK)" vertex="1">
           <mxGeometry height="30" width="90" x="20" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-11" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Tittle" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-11" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="title" vertex="1">
           <mxGeometry height="30" width="90" x="20" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-12" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Type_conversation" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-12" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="type_conversation" vertex="1">
           <mxGeometry height="30" width="90" x="20" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-13" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Date_of_creation" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-13" parent="beGQW_I2tZ_rfWtEJjbH-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="date_of_creation" vertex="1">
           <mxGeometry height="30" width="90" x="20" y="150" as="geometry" />
         </mxCell>
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="TO PARTICIPATE IN" vertex="1">
@@ -1180,34 +1196,34 @@
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-23" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="MESSAGES" vertex="1">
           <mxGeometry height="200" width="200" x="290" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-24" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Id_message PK" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-24" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="id_message (PK)" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-25" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Contente" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-25" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="content" vertex="1">
           <mxGeometry height="30" width="60" x="10" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-26" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Date_sent" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-26" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="date_sent" vertex="1">
           <mxGeometry height="30" width="60" x="10" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-27" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Date_modification" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-27" parent="beGQW_I2tZ_rfWtEJjbH-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="date_modification" vertex="1">
           <mxGeometry height="30" width="60" x="10" y="150" as="geometry" />
         </mxCell>
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="STATUS" vertex="1">
           <mxGeometry height="140" width="200" x="280" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-31" parent="beGQW_I2tZ_rfWtEJjbH-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Status_Description" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-31" parent="beGQW_I2tZ_rfWtEJjbH-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="status_description" vertex="1">
           <mxGeometry height="30" width="90" x="10" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Id_Status (PK)" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="id_status (PK)" vertex="1">
           <mxGeometry height="30" width="90" x="290" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[HAVE STATUS]" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A POUR STATUT" vertex="1">
           <mxGeometry height="30" width="100" x="330" y="485" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[ CONVERSATIONS ]" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONVERSATIONS" vertex="1">
           <mxGeometry height="30" width="150" x="910" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[To contain]" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONTIENT" vertex="1">
           <mxGeometry height="30" width="150" x="630" y="280" as="geometry" />
         </mxCell>
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1,1)" vertex="1">
@@ -1267,7 +1283,7 @@
             <mxPoint x="384" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="beGQW_I2tZ_rfWtEJjbH-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[TO SEND]" vertex="1">
+        <mxCell id="beGQW_I2tZ_rfWtEJjbH-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ENVOIE" vertex="1">
           <mxGeometry height="30" width="100" x="340" y="80" as="geometry" />
         </mxCell>
         <mxCell id="beGQW_I2tZ_rfWtEJjbH-50" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
